@@ -1,0 +1,56 @@
+body{
+background: url(11t\ pro.jpg);
+width: 100%;
+
+}
+
+#header ul li  {
+    font-family: 'Cairo', sans-serif;
+  
+  display: -webkit-inline-box;
+  margin: 0px 0px;
+  color: #ff6900;
+  background-color: #05040c;
+  padding: 15px ;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: 'Cairo', sans-serif;
+  font-size: 20px;
+
+}
+
+
+#header ul li a{
+  color: #ff6900;
+  text-decoration: none;
+}
+
+.body {
+  color: #ff6900;
+  font-size: 30px;
+  text-align: right;
+    margin-bottom: 40px;
+    font-size: 25px;
+    line-height: 1.125;
+    font-weight: 300;
+    margin-top: 20px;
+    margin-right: 900px;
+    font-family: 'Cairo', sans-serif;
+}
+.body h1{
+  font-size: 40px;
+  
+}
+#video{
+  margin-left: 10px;
+  border-radius: 20px;
+  border: hidden;
+  
+}
+
+
+
+
+
+
+
